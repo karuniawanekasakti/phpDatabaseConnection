@@ -53,7 +53,7 @@ echo <<<EOT
 	<body>
     <nav class="navtop">
     	<div>
-    		<h1>Simple Crud</h1>
+    		<h1>Movies21</h1>
             <a href="index.php"><i class="fas fa-home"></i>Home</a>
     		<a href="read.php"><i class="fas fa-address-book"></i>Contacts</a>
 			<a href="list_movie.php"><i class="fas fa-video"></i>List Film</a>
